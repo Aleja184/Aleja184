@@ -1,6 +1,5 @@
-Hola,
-Soy Alejandra Toro tengo 21 años, soy estudiante de Ciencias de la computación, soy autodidacta, python developer junior y estoy aprendiendo C.
-También he creado algunas páginas con HTML5 y CSS3.
+Hi, 
+My name is Alejandra Toro, I'm 21 years old. I'm Computer Science student. I'm python developer junior. I've created some web pages using HTML5 and CSS3. And I still learning about programming.
 
 **Contacto**
 [LinkedIn](http://www.linkedin.com/in/alejandra-toro-grisales-8a8a8b217 "LinkedIn")
