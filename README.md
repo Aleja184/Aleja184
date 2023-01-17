@@ -1,10 +1,14 @@
 Hi, 
-My name is Alejandra Toro, I'm 21 years old. I'm Computer Science student. I'm python developer junior. I've created some web pages using HTML5 and CSS3. And I still learning about programming.
+My name is Alejandra Toro. I'm a Computer Science student and I'm also a Front End Developer Junior.
+
+Here are the repositories of some projects I've developed: 
+
+-Encrypter: https://github.com/Aleja184/Encriptador_de_texto (Spanish)
+-Hangman: https://github.com/Aleja184/Juego_ahorcado (Spanish)
+-E-commerce: https://github.com/Aleja184/e-commerce 
+-Converter: https://github.com/Aleja184/Converter
 
 **Contacto**
 [LinkedIn](http://www.linkedin.com/in/alejandra-toro-grisales-8a8a8b217 "LinkedIn")
 
-<!---
-Aleja184/Aleja184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
