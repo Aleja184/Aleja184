@@ -10,7 +10,7 @@ Here are the repositories of some projects I've developed:
 - E-commerce: https://github.com/Aleja184/e-commerce 
 - Converter: https://github.com/Aleja184/Converter
 
-**Contacto**
+**Contact**
 [LinkedIn](http://www.linkedin.com/in/alejandra-toro-grisales-8a8a8b217 "LinkedIn")
 
 
