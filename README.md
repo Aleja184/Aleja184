@@ -15,6 +15,7 @@ Here are the repositories of some projects I've developed:
 #### DevOps
 - EC2: https://github.com/Aleja184/Hotel
 - Docker: https://github.com/Aleja184/DevOpsContenedoresGit
+- Terraform: https://github.com/Aleja184/Terraform
 
 **Contact**
 [LinkedIn](http://www.linkedin.com/in/alejandra-toro-grisales-8a8a8b217 "LinkedIn")
